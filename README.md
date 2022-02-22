@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rochacode
+- 👀 I’m interested in learn to code and turn it into my job
+- 🌱 I’m currently learning JAVA
+- 📫 You can reach my by the e-mail adress rafaelstonerocha@gmail.com
